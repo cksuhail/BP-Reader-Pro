@@ -6,7 +6,6 @@ The system detects and extracts blood pressure readings from a **specific digita
 
 It captures images, detects the BP display region, extracts readings (SYS, DIA, HR), identifies known device errors, and stores structured logs for review.
 
-> This is a technical automation and research prototype. It is **not a certified medical diagnostic system**.
 
 ---
 
