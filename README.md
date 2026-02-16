@@ -1,4 +1,4 @@
-# Updated README content for the new repository: BP-Reader-Pro
+# BP-Reader-Pro
 
 readme_content = """
 # BP-Reader Pro
