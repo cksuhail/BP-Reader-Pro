@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "20251222_162506",
+        "input_image": "amina_28_20251222_162506.jpg",
+        "status": "success",
+        "message": "Readings extracted successfully",
+        "SYS": 117,
+        "DIA": 65,
+        "HR": 60,
+        "error_code": null,
+        "solution": null,
+        "name": "amina",
+        "age": "28",
+        "sex": "F",
+        "source_image": "C:\\Users\\wwwah\\Documents\\VsCode\\iHUb\\BP\\BP_READING\\Sample_Input\\captured_images\\amina_28_20251222_162506.jpg",
+        "cropped_image": "C:\\Users\\wwwah\\Documents\\VsCode\\iHUb\\BP\\BP_READING\\Sample_Output\\cropped_images\\amina_28_crop_20251222_162506.png"
+    }
+]

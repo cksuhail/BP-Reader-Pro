@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "20260130_161415",
+        "input_image": "kjg_22_20260130_161415.jpg",
+        "status": "error",
+        "message": "BP monitor error detected",
+        "SYS": null,
+        "DIA": null,
+        "HR": null,
+        "error_code": "ERROR 2",
+        "solution": "Do not move or talk, remain still.",
+        "name": "kjg",
+        "age": "22",
+        "sex": "M",
+        "source_image": "/home/ubuntu/BP-Reading-main/Code/../Sample_Input/captured_images/kjg_22_20260130_161415.jpg",
+        "cropped_image": "/home/ubuntu/BP-Reading-main/Code/../Sample_Output/cropped_images/kjg_22_crop_20260130_161415.png"
+    }
+]

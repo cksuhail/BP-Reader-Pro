@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "20260130_161313",
+        "input_image": "suhail_19_20260130_161313.jpg",
+        "status": "success",
+        "message": "Readings extracted successfully",
+        "SYS": 100,
+        "DIA": 88,
+        "HR": 86,
+        "error_code": null,
+        "solution": null,
+        "name": "suhail",
+        "age": "19",
+        "sex": "M",
+        "source_image": "/home/ubuntu/BP-Reading-main/Code/../Sample_Input/captured_images/suhail_19_20260130_161313.jpg",
+        "cropped_image": "/home/ubuntu/BP-Reading-main/Code/../Sample_Output/cropped_images/suhail_19_20260130_161313.png"
+    }
+]

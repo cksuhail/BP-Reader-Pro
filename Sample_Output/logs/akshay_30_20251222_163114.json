@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "20251222_163114",
+        "input_image": "akshay_30_20251222_163114.jpg",
+        "status": "success",
+        "message": "Readings extracted successfully",
+        "SYS": 144,
+        "DIA": 99,
+        "HR": 100,
+        "error_code": null,
+        "solution": null,
+        "name": "akshay",
+        "age": "30",
+        "sex": "M",
+        "source_image": "C:\\Users\\wwwah\\Documents\\VsCode\\iHUb\\BP\\BP_READING\\Sample_Input\\captured_images\\akshay_30_20251222_163114.jpg",
+        "cropped_image": "C:\\Users\\wwwah\\Documents\\VsCode\\iHUb\\BP\\BP_READING\\Sample_Output\\cropped_images\\akshay_30_crop_20251222_163114.png"
+    }
+]

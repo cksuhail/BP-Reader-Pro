@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "20251222_154940",
+        "input_image": "ahmed_21_20251222_154940.jpg",
+        "status": "success",
+        "message": "Readings extracted successfully",
+        "SYS": 128,
+        "DIA": 81,
+        "HR": 91,
+        "error_code": null,
+        "solution": null,
+        "name": "ahmed",
+        "age": "21",
+        "sex": "M",
+        "source_image": "C:\\Users\\wwwah\\Documents\\VsCode\\iHUb\\BP\\BP_READING\\Sample_Input\\captured_images\\ahmed_21_20251222_154940.jpg",
+        "cropped_image": "C:\\Users\\wwwah\\Documents\\VsCode\\iHUb\\BP\\BP_READING\\Sample_Output\\cropped_images\\ahmed_21_crop_20251222_154940.png"
+    }
+]

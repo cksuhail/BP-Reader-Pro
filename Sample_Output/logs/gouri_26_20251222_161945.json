@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "20251222_161945",
+        "input_image": "gouri_26_20251222_161945.jpg",
+        "status": "success",
+        "message": "Readings extracted successfully",
+        "SYS": 122,
+        "DIA": 70,
+        "HR": 94,
+        "error_code": null,
+        "solution": null,
+        "name": "gouri",
+        "age": "26",
+        "sex": "M",
+        "source_image": "C:\\Users\\wwwah\\Documents\\VsCode\\iHUb\\BP\\BP_READING\\Sample_Input\\captured_images\\gouri_26_20251222_161945.jpg",
+        "cropped_image": "C:\\Users\\wwwah\\Documents\\VsCode\\iHUb\\BP\\BP_READING\\Sample_Output\\cropped_images\\gouri_26_crop_20251222_161945.png"
+    }
+]
