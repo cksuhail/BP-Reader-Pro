@@ -1,6 +1,4 @@
-# BP-Reader-Pro
 
-readme_content = """
 # BP-Reader Pro
 
 **BP-Reader Pro** is a Python-based computer vision system developed during an internship at **iHub Robotics, Edappally**.  
