@@ -57,4 +57,21 @@ No OS-specific dependencies are used. Camera index adjustments may be required.
 ---
 
 ## Repository Structure
-
+BP-Reader-Pro/
+├── Code/
+│ ├── backend.py
+│ └── main.py
+│
+├── Models/
+│ ├── Best_yolo_crop.pt
+│ └── Last_yolo_crop.pt
+│
+├── Sample_Input/
+│ └── captured_images/
+│
+├── Sample_Output/
+│ ├── cropped_images/
+│ └── logs/
+│
+├── requirements.txt
+└── README.md
