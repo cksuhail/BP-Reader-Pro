@@ -53,27 +53,30 @@ It captures images, detects the BP display region, extracts readings (SYS, DIA, 
 - Expected to work on: Linux  
 
 No OS-specific dependencies are used. Camera index adjustments may be required.
-
 ---
 
 ## Repository Structure
-'''
-BP-Reader-Pro/
+
+```
+BP-Reader-pro/
 ├── Code/
 │   ├── backend.py              # YOLO + OCR pipeline logic
 │   └── main.py                 # Camera capture & user interaction loop
+│   └── Train_YOLO.py                 
 │
 ├── Models/
-│   ├── Best_yolo_crop.pt       # Primary trained YOLO model
-│   └── 2nd_Best_yolo_crop.pt   # Fallback YOLO model
+│   ├── BP_model_best .pt      # Primary trained YOLO model
+│   └── BP_model_last .pt  # Fallback YOLO model
 │
-├── Sample_Input/
+├── Sample_input/
 │   └── captured_images/        # Sample full-resolution input images
 │
-├── Sample_Output/
+├── Sample_output/
 │   ├── cropped_images/         # YOLO-cropped display regions
 │   └── logs/                   # JSON logs (results & errors)
 │
 ├── requirements.txt
 └── README.md
-'''
+```
+
+---
