@@ -57,21 +57,23 @@ No OS-specific dependencies are used. Camera index adjustments may be required.
 ---
 
 ## Repository Structure
+'''
 BP-Reader-Pro/
 ├── Code/
-│ ├── backend.py
-│ └── main.py
+│   ├── backend.py              # YOLO + OCR pipeline logic
+│   └── main.py                 # Camera capture & user interaction loop
 │
 ├── Models/
-│ ├── Best_yolo_crop.pt
-│ └── Last_yolo_crop.pt
+│   ├── Best_yolo_crop.pt       # Primary trained YOLO model
+│   └── 2nd_Best_yolo_crop.pt   # Fallback YOLO model
 │
 ├── Sample_Input/
-│ └── captured_images/
+│   └── captured_images/        # Sample full-resolution input images
 │
 ├── Sample_Output/
-│ ├── cropped_images/
-│ └── logs/
+│   ├── cropped_images/         # YOLO-cropped display regions
+│   └── logs/                   # JSON logs (results & errors)
 │
 ├── requirements.txt
 └── README.md
+'''
